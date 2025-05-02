@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\source\\repos\\Blogv1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2471B-15C1-423B-9CB7-C997799FCC8D}|Blogv1\\Blogv1.csproj|c:\\users\\monster\\source\\repos\\blogv1\\blogv1\\context\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E2471B-15C1-423B-9CB7-C997799FCC8D}|Blogv1\\Blogv1.csproj|solutionrelative:blogv1\\context\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2471B-15C1-423B-9CB7-C997799FCC8D}|Blogv1\\Blogv1.csproj|c:\\users\\monster\\source\\repos\\blogv1\\blogv1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E2471B-15C1-423B-9CB7-C997799FCC8D}|Blogv1\\Blogv1.csproj|solutionrelative:blogv1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2471B-15C1-423B-9CB7-C997799FCC8D}|Blogv1\\Blogv1.csproj|c:\\users\\monster\\source\\repos\\blogv1\\blogv1\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E2471B-15C1-423B-9CB7-C997799FCC8D}|Blogv1\\Blogv1.csproj|solutionrelative:blogv1\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E2471B-15C1-423B-9CB7-C997799FCC8D}|Blogv1\\Blogv1.csproj|c:\\users\\monster\\source\\repos\\blogv1\\blogv1\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E2471B-15C1-423B-9CB7-C997799FCC8D}|Blogv1\\Blogv1.csproj|solutionrelative:blogv1\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Blogv1\\Blogv1\\Context\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "Blogv1\\Context\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Blogv1\\Blogv1\\Context\\BlogDbContext.cs*",
+              "RelativeToolTip": "Blogv1\\Context\\BlogDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:45:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Blogv1\\Blogv1\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Blogv1\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Blogv1\\Blogv1\\Models\\Comment.cs",
+              "RelativeToolTip": "Blogv1\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:44:10.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Blogv1\\Blogv1\\Views\\Blogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Blogv1\\Views\\Blogs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Blogv1\\Blogv1\\Views\\Blogs\\Details.cshtml",
+              "RelativeToolTip": "Blogv1\\Views\\Blogs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T09:40:26.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\Blogv1\\Blogv1\\Views\\Blogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Blogv1\\Views\\Blogs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\Blogv1\\Blogv1\\Views\\Blogs\\Index.cshtml",
+              "RelativeToolTip": "Blogv1\\Views\\Blogs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T09:37:09.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
